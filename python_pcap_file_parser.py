@@ -1,7 +1,6 @@
 import json
 import os
 import datetime
-import pandas as pd
 
 path=input("Enter path of pcap file: ")
 filename= input("Enter pcap filename: ")
